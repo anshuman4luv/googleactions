@@ -6,7 +6,7 @@
   "author": "",
   "license": "",
   "scripts": {
-    "start": "node server.js"
+    "start": "node ."
 },
   "dependencies": {
     "@oracle/bots-node-sdk": "^2.0.0",
